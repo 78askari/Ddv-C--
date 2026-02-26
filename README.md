@@ -2,7 +2,7 @@
 
 ## 有Dev C++怎么就不能有 **敌敌畏 C--** 
 
-[仓库链接](https://github.com/78askari/Ddv-C--.git)
+[敌敌畏 C--官方仓库链接](https://github.com/78askari/Ddv-C--.git)
 
 ## 开源协议
 本项目采用 **MIT License** 开源。
