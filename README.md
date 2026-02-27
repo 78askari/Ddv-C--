@@ -57,7 +57,6 @@ QQ号:
 哔哔哩哩账号:
 - 官方账号: **暂无**
 - 个人账号(昵称):我不想尘肺病
-个人账号(昵称):SYSTEM-WIN-慶鸏
-[敌敌畏 C-- 官方仓库链接](https://github.com/78askari/Ddv-C--.git)
+- 个人账号(昵称):SYSTEM-WIN-慶鸏
 
-![Ddv C-- 图标](ddv_loog.jpg)
+[敌敌畏 C-- 官方仓库链接](https://github.com/78askari/Ddv-C--.git)
